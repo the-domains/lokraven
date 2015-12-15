@@ -1,0 +1,28 @@
+name: lokraven
+favicon: null
+layout_spectrum: 0.13323386921547353
+typography_spectrum: 0.4657230549491942
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.019954153336584568
+  lightness: 0.5526385416742414
+  saturation: 0.16902748262509704
+  rhythmicContrast: 0.6859011305496097
+purpose: []
