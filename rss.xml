@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[lokraven]]></title>
         <description><![CDATA[lokraven]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lokraven/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 06:02:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 06:04:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lokraven/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On my way to Tasmania!]]></title>
             <description><![CDATA[<article><h1>On my way to Tasmania!</h1><p>Finally on The Grid! Currently in Sydney airport in transit to Hobart, Tasmania. </p></article>]]></description>
-            <link>undefinedon-my-way-to-tasmania/index.html</link>
+            <link>https://thegrid.ai/lokraven/on-my-way-to-tasmania/index.html</link>
             <guid isPermaLink="false">39508447-14cd-47b9-943c-91139a77d967</guid>
             <pubDate>Tue, 15 Dec 2015 06:02:18 GMT</pubDate>
         </item>
