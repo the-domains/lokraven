@@ -1,6 +1,6 @@
 name: lokraven
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.2701
 typography_spectrum: 0.24495
 title: The Black Birdie
 cta:
@@ -22,7 +22,7 @@ color:
     - '#76726f'
     - '#433e3b'
     - '#e5dfdb'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 0.8125
   saturation: 0.1875
   rhythmicContrast: 0.75
