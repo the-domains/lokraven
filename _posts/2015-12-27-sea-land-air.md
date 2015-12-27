@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T00:27:01.798Z'
-dateModified: '2015-12-27T00:25:48.647Z'
+datePublished: '2015-12-27T00:36:31.338Z'
+dateModified: '2015-12-27T00:35:55.155Z'
 title: 'Sea, Land, Air '
 author: []
 authors: []
@@ -35,7 +35,6 @@ You're going to be moving around most of the time and staying everywhere! As muc
 3\. Get local
 
 Besides hostels, stay at Airbnbs with hosts! You certainly won't know who you will meet, but if you are lucky like me you will come across amazing hosts that will give you the most local tips. Chat up with them and in return you can learn so much about their way of life.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d492223-6795-485d-9684-843cff4132ff.JPG)
 
 4\. Stay safe, stay connected
 
@@ -52,4 +51,4 @@ You're in a place where NOBODY knows you, enjoy those moments because they won't
 7\. Try something new
 
 Often times we get so hesitant about trying new things only because we haven't done it before. Like the saying goes the "only thing we have to fear is fear itself". Just do it!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/099cbbd7-946b-441f-bbb7-f998ab3dfb3b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb332254-2dc0-4d86-b4b7-9b9fc45326b5.jpg)
